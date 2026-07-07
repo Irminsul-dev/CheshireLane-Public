@@ -1,3 +1,7 @@
+## This project has been archived; the latest version is [Irminsul-dev/CheshireLane9](https://github.com/Irminsul-dev/CheshireLane9).
+
+---
+
 ![cheshire-banner](assets/static/cheshire-banner.png)
 
 # CheshireLane (Public Version)
